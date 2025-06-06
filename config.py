@@ -1,0 +1,1 @@
+MONGO_URL = "mongodb+srv://arnaudescalier:x81j5YMg9uATX9aE@cluster0.hogiznf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
